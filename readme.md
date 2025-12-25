@@ -58,7 +58,7 @@ The training lasted for ~3 hours, with the final validation loss reaching 4.39.
 This project is intended as a learning and research exercise rather than a production model.
 
 ## Samples
-- Reflects the overall tonality of the training texts
-- Demonstrates character continuity
+- Reflect the overall tonality of the training texts
+- Demonstrate character continuity
 - Demonstrate early signs of coherence and narrative structure
 
